@@ -39,10 +39,4 @@ If you find any bug, and a fix for that bug, please leave a comment on the githu
 
 - - - -
 
-## DON'T FORGET TO GIVE US FEEDBACK
 
-- - - -
-
-Like  [@OSWA](https://www.facebook.com/oswapp) on Facebook for more project.
-
-Don't forget to visit [oswapp.com](http://oswapp.com "OSWA")
